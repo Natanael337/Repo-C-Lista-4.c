@@ -8,7 +8,7 @@ for (i = 1; i <= 10; i++){
     printf("Digite um numero: ");
    scanf("%d", &numero);
     if(numero > 50){
-        maiorQ++
+        maiorQ++;
     }   
 }
 printf("Maiores: %d\n", maiorQ);
